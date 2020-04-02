@@ -1,0 +1,17 @@
+.jumbotron {
+  /* Choisis la hauteur ici */
+  height: 450px;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("hbg.jpg");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header{
+	text-align: center;
+}
+
